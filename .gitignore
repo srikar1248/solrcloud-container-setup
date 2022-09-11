@@ -1,0 +1,12 @@
+# Ignore zoo data folders
+zoo1data
+zoo2data
+zoo3data
+data
+mydata/*
+
+# Ignore all json files
+*.json
+
+# Ignore files related to API keys
+.env
